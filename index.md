@@ -14,7 +14,7 @@
 `cgen.dlang’s` system architecture. Users interface with the `cgen.dlang` interface to design `structures` (**seed design**) that are functions of the underlying `component library` and associated `grammar`. Users also have the option of `voting()` on other **user-generated structures** and **genetically generated structures**.
 
 ## Components  
-The structure (system architecture) of `cgen.dlang` is composed of the following components: **component library**, **component grammars**, **voting models**, and an **evolutionary processes**.
+The structure (system architecture) of `cgen.dlang` is composed of the following components: **component library**, **component grammars**, **voting models**, and **evolutionary processes**.
 
 ### Definitions
 * **component library** - _collection of pre-defined `assets`_
