@@ -1,0 +1,2 @@
+# Import streamlit
+import streamlit
