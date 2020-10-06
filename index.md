@@ -1,6 +1,8 @@
 ## Designing The Community Generated Design Language
 _To inhabit intricate and completely imagined structures - Intelligence_
 
+![cgen-ui](https://storage.googleapis.com/root-proposal-1246/CGEN/Papers/ACMFAccT2021/ui-proto/cgen-proto-4-purely-components-on.png)
+
 ### The Beginning
 Before we begin with expressing the planning, form, and function of The Community Generated Design Language (`cgen`), we must admit that the foundations of `cgen` are rooted in research experiences across mathematical linguistics, neurobiology, deep reinforcement learning, cultural evolution (cognitive science), and communication theory (information theory): _With these biases as tools we move forward to complete the ongoing project with the resolve and intent of producing an accessible intelligent design thinking and research **framework**, **application**, and **platform**._
 
@@ -25,6 +27,7 @@ The difference between these approaches give rise to various conceptual bridges 
 > **Paper:** [cgen.dlang: An Evolutionary Approach
 > to Design Collaboration](https://storage.googleapis.com/root-proposal-1246/CGEN/Papers/data4good-cgen-dlang.pdf)
 
+![cgen-ui](https://storage.googleapis.com/root-proposal-1246/CGEN/Papers/ACMFAccT2021/ui-proto/cgen-proto-4-plastic-back-shape-on.png)
 
 ---
 # Introduction
