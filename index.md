@@ -6,7 +6,7 @@ _To inhabit intricate and completely imagined structures - Intelligence_
 ### The Beginning
 Before we begin with expressing the planning, form, and function of The Community Generated Design Language (`cgen`), we must admit that the foundations of `cgen` are rooted in research experiences across mathematical linguistics, neurobiology, deep reinforcement learning, cultural evolution (cognitive science), and communication theory (information theory). 
 
-With these foundations in check we move forward with mothering and raising `cgen`, a accessible intelligent design thinking and research **framework**, **application**, and **platform**.
+With these foundations in check we move forward with mothering `cgen`, an accessible intelligent design thinking and research **framework**, **application**, and **platform**.
 
 ### The Setting
 As students of cognitive science, we view the field of AI on a continuum: 
@@ -32,7 +32,7 @@ The magic of `cgen` is not only in the machine learning and evolutionary algorit
 
 ---
 # Introduction
-[`cgen.dlang`]() is a collaborative design system developed for small communities (5 – 50 people) who want to generate a collection of the team created and computer mutated visual structures that are likely to be optimal reflections of a team’s aesthetic values. These visual structures capture the full transmission history of aesthetics and are used to form design language systems. 
+The Community Generated Design Language (`cgen-dlang`, `dlang`, `cgen`, `cd/CD`) is a collaborative design framework developed for small and diverse communities (5 -10 people) who wish to design continually evolving, inclusive, equitable products. Resulting products (or structures) are a product of individually submitted designs and collective decision making. Collective decision making is supported by both the human participants and the evolutionary approach of the cgen framework. To demonstrate, build on, and test the framework, we first highlight how cgen can be used to design products with teams that are composed of various physical impairments or  disabilities. Then, as a final demonstration, we create personas that, through cgen, engage in a community learning space's evolutionary and equitable design. In the end, our results show that creating design products through the cgen framework is possible despite variance in expertise, ability, and role. 
 
 ## Software Architecture
 `cgen’s` infrastructure relies on a cocktail of programming languages for front-end and back-end specification and implementation.
