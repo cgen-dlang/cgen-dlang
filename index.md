@@ -7,7 +7,7 @@ _To inhabit intricate and completely imagined structures - Intelligence_
 The team behind the Community Generated Design Language (`cgen-dlang`) has foundations rooted in experiences across information theory, mathematical linguistics, neurobiology, deep reinforcement learning, and cultural evolution/cognitive science.
 
 ### The Setting
-As students of cognitive science, we view the field of AI on a continuum: 
+As students of cognitive science, we view the field of intelligent systems on a continuum: 
 
 1. On one end - **Symbolic Systems**
 2. On one end - **Connectionism**
