@@ -4,7 +4,7 @@ _To inhabit intricate and completely imagined structures - Intelligence_
 ![cgen-ui](https://storage.googleapis.com/root-proposal-1246/CGEN/Papers/ACMFAccT2021/ui-proto/cgen-proto-4-purely-components-on.png)
 
 ### The Beginning
-The team behind the Community Generated Design Language (`cgen-dlang`) has foundations rooted in experiences across information theory, mathematical linguistics, neurobiology, deep reinforcement learning, and cultural evolution/cognitive science.
+The team behind the Community Generated Design Language (`cgen-dlang`/`cgen`) has foundations rooted in experiences across information theory, mathematical linguistics, neurobiology, deep reinforcement learning, and cultural evolution/cognitive science.
 
 ### The Setting
 As students of cognitive science, we view the field of intelligent systems on a continuum: 
@@ -16,7 +16,7 @@ The difference between these approaches give rise to various conceptual bridges 
 
 >_What is the fundamental unit or minimal architecture that gives rise to learning and thus creativity and intelligence in agents of man, machine, animal, plant, culture, and society?_
 
-Through the building of cgen's **framework**, **application**, and **platform**, we aim to answer.
+Through the building of `cgen-dlang`'s **framework**, **application**, and **platform**, we aim to answer.
 
 ### The Team
 As a team of designers, developers, and scientists, we think that such a multidimensional system should be language-agnostic and implementable with any standard programming language like `python` or `R.` Further, the need to design a framework first is to make sure that we could explore both the top-down and bottom-up approaches of generally intelligent systems (GIS). Then, leverage their drawbacks and potentials to make contributions to science and humanity safely
