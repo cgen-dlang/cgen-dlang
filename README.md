@@ -1,4 +1,4 @@
-# cgen-dlang
+# cgen-dlang: Community Generated Design Language
 [![ForTheBadge powered-by-electricity](http://ForTheBadge.com/images/badges/powered-by-electricity.svg)](http://ForTheBadge.com)
 
 [![Maintenance](https://img.shields.io/badge/Maintained%3F-yes-green.svg)](https://GitHub.com/Naereen/StrapDown.js/graphs/commit-activity)
@@ -7,17 +7,15 @@
 
 _An Evolutionary Approach to Design Collaboration_
 
-![ui](https://storage.googleapis.com/root-proposal-1246/CGEN/Papers/data4good/annotated-cgen.dlang-ui.png)
-
 ---
 # Introduction
-[`cgen.dlang`]() is a collaborative design system developed for small communities (5 – 50 people) who want to generate a collection of the team created and computer mutated visual structures that are likely to be optimal reflections of a team’s aesthetic values. These visual structures capture the full transmission history of aesthetics and are used to form design language systems. 
+[`cgen`]() is a collaborative design system developed for small communities (5 – 50 people) who want to generate a collection of the team created and computer mutated visual structures that are likely to be optimal reflections of a team’s aesthetic values. These visual structures capture the full transmission history of aesthetics and are used to form design language systems. 
 
 ## Software Architecture
-`cgen.dlang’s` infrastructure relies on a cocktail of programming languages for front-end and back-end specification and implementation.
+`cgen` infrastructure relies on a cocktail of programming languages for front-end and back-end specification and implementation.
 
 ## Application Architecture
-`cgen.dlang’s` system architecture. Users interface with the `cgen.dlang` interface to design `structures` (**seed design**) that are functions of the underlying `component library` and associated `grammar`. Users also have the option of `voting()` on other **user-generated structures** and **genetically generated structures**.
+`cgen` system architecture. Users interface with the `cgen.dlang` interface to design `structures` (**seed design**) that are functions of the underlying `component library` and associated `grammar`. Users also have the option of `voting()` on other **user-generated structures** and **genetically generated structures**.
 
 ## Components  
 The structure (system architecture) of `cgen.dlang` is composed of the following components: **component library**, **component grammars**, **voting models**, and **evolutionary processes**.
