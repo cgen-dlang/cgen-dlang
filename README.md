@@ -12,7 +12,7 @@ _An Evolutionary Approach to Design Collaboration_
 
 # Introduction
 
-[`cgen-dlang`]() is a collaborative design system developed for small communities (5 – 50 people) who want to generate a collection of the team created and computer mutated visual structures that are likely to be optimal reflections of a team’s aesthetic values. These visual structures capture the full transmission history of aesthetics and are used to form design language systems. 
+[`cgen-dlang`]() is a collaborative design system developed for small communities (5 – 50 people) who want to generate a collection of the team specific  computer aided structures, which are likely to be optimal reflections of a team’s aesthetic values: These visual structures capture the full transmission history of aesthetics and are used to form design language systems. 
 
 ## Software Architecture
 
