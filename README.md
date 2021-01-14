@@ -16,7 +16,7 @@ _An Evolutionary Approach to Design Collaboration_
 
 ## Software Architecture
 
-`cgen` infrastructure relies on a cocktail of programming languages for front-end and back-end specification and implementation.
+`cgen-dlang` infrastructure relies on a cocktail of programming languages for front-end and back-end specification and implementation.
 
 ## Application Architecture
 
