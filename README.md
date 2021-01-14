@@ -1,4 +1,5 @@
 # cgen-dlang: Community Generated Design Language
+
 [![ForTheBadge powered-by-electricity](http://ForTheBadge.com/images/badges/powered-by-electricity.svg)](http://ForTheBadge.com)
 
 [![Maintenance](https://img.shields.io/badge/Maintained%3F-yes-green.svg)](https://GitHub.com/Naereen/StrapDown.js/graphs/commit-activity)
@@ -8,19 +9,25 @@
 _An Evolutionary Approach to Design Collaboration_
 
 ---
+
 # Introduction
+
 [`cgen-dlang`]() is a collaborative design system developed for small communities (5 – 50 people) who want to generate a collection of the team created and computer mutated visual structures that are likely to be optimal reflections of a team’s aesthetic values. These visual structures capture the full transmission history of aesthetics and are used to form design language systems. 
 
 ## Software Architecture
+
 `cgen` infrastructure relies on a cocktail of programming languages for front-end and back-end specification and implementation.
 
 ## Application Architecture
-`cgen` system architecture. Users interface with the `cgen.dlang` interface to design `structures` (**seed design**) that are functions of the underlying `component library` and associated `grammar`. Users also have the option of `voting()` on other **user-generated structures** and **genetically generated structures**.
 
-## Components  
-The structure (system architecture) of `cgen.dlang` is composed of the following components: **component library**, **component grammars**, **voting models**, and **evolutionary processes**.
+`cgen-dlang` system architecture. Users interface with the `cgen-dlang` interface to design `structures` (**seed design**) that are functions of the underlying `component library` and associated `grammar`. Users also have the option of `voting()` on other **user-generated structures** and **genetically generated structures**.
+
+## Components 
+
+The structure (system architecture) of `cgen-dlang` is composed of the following components: **component library**, **component grammars**, **voting models**, and **evolutionary processes**.
 
 ### Definitions
+
 * **component library** - _collection of pre-defined `assets`_
 * **component grammars** - _set of rules that define
 acceptable `operations` on and between `components`
@@ -67,6 +74,7 @@ node server.js
 ```
 
 ## Use
+
 ```python
 from cgen.dlang import cgen.example
 import cgen.dlang as cgen
@@ -84,7 +92,7 @@ cgen.Gen_STRUCT(cgen.example.components, ..., cgen.example.operations)
 ### Support or Contact
 Looking for help or wanting to contribute to the arts and ai? Check out our [documentation](https://github.com/cgen-dlang/cgen-dlang) or [contact team](people.cgen.dlang@gmail.com) and we’ll help you sort it out.
 
-
 ---
+
 [![ForTheBadge built-by-developers](http://ForTheBadge.com/images/badges/built-by-developers.svg)](https://GitHub.com/Naereen/)
 [![ForTheBadge built-with-love](http://ForTheBadge.com/images/badges/built-with-love.svg)](https://GitHub.com/Naereen/)
